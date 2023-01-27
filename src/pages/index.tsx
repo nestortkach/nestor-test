@@ -98,7 +98,7 @@ export default function Home(): JSX.Element {
               Templates <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Discover and deploy boilerplate example Next.js&nbsp;projects
             </p>
           </a>
 
